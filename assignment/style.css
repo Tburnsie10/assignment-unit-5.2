@@ -1,0 +1,21 @@
+.header {
+    background-color: brown;
+    color: orange;
+    text-align: center;
+    margin: 5%;
+}
+
+.main {
+    background-color: lightgrey;
+    padding: 1em;
+    margin: 5%;
+}
+
+
+
+
+body {
+    background-image: url("record.png");
+    background-repeat: repeat;
+    margin: 0;
+}
